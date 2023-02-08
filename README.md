@@ -1,4 +1,4 @@
-# GCP_Project-
+# GCP_Project
 
 - Introduction to the Google Cloud Console
 - Understanding Cloud Storage concepts and classes
